@@ -1,6 +1,6 @@
 #MyLearning
 Catatan Ajaran
-#Chapter 1
+# Chapter 1
 Whats Is Interaction Design ?
 
 1.1 Introduction
@@ -10,7 +10,7 @@ Whats Is Interaction Design ?
 1.5 The Process of Interaction Design
 1.6 Interaction Design and the User Experience
 
-Objectives
+# Objectives
 * Jelaskan perbedaan antara desain interaksi yang baik dan buruk.
 * Jelaskan apa itu desain interaksi dan bagaimana kaitannya dengan interaksi manusia-komputer dan bidang lainnya.
 * Jelaskan hubungan antara pengalaman pengguna dan kegunaan.
