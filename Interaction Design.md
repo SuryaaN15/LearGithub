@@ -3,12 +3,12 @@ Catatan Ajaran
 # Chapter 1
 Whats Is Interaction Design ?
 
-1.1 Introduction
-1.2 Good and Poor Design
-1.3 What Is Interaction Design?
-1.4 The User Experience
-1.5 The Process of Interaction Design
-1.6 Interaction Design and the User Experience
+* 1.1 Introduction
+* 1.2 Good and Poor Design
+* 1.3 What Is Interaction Design?
+* 1.4 The User Experience
+* 1.5 The Process of Interaction Design
+* 1.6 Interaction Design and the User Experience
 
 # Objectives
 * Jelaskan perbedaan antara desain interaksi yang baik dan buruk.
